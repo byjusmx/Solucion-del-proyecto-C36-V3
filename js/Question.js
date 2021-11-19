@@ -25,15 +25,15 @@ class Question {
     this.title.html("Juego MiQuiz");
     this.title.position(350, 0);
 
-    this.question.html("Pregunta:- What starts and ends with the letter ‘E’, but has only one letter?" );
+    this.question.html("Pregunta:- Un señor gordito y muy coloradito, no toma café pues siempre toma té" );
     this.question.position(150, 80);
-    this.option1.html("1: Everyone " );
+    this.option1.html("1: Tapete " );
     this.option1.position(150, 100);
-    this.option2.html("2: Envelope" );
+    this.option2.html("2: Tomate" );
     this.option2.position(150, 120);
-    this.option3.html("3: Estimate " );
+    this.option3.html("3: Taquero " );
     this.option3.position(150, 140);
-    this.option4.html("4: Example" );
+    this.option4.html("4: Tenedor" );
     this.option4.position(150, 160);
 
     this.input1.position(150, 230);
